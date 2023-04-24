@@ -1,0 +1,88 @@
+#maintitle {
+    font-family: 'Arizonia';
+    text-align: center;
+    font-size: 100px;
+    position: relative;
+    top: -150px;
+    -webkit-text-fill-color: rgb(252, 236, 2);
+
+}
+
+#disclaimer {
+    font-size: 14px;
+    word-wrap: break-word;
+    max-width: 400px;
+    font-family: "Lucida Console", monospace;
+    position: relative;
+    left: 1000px;
+    top: -10px;
+}
+
+#ATB {
+    font-family: 'Arizonia';
+    font-size: 34px;
+    position: relative;
+    top: -180px;
+    max-width: 650px;
+
+}
+
+#ATBparagraph{
+    font-size: 110%;
+     max-width: 650px;
+     position: relative;
+     top: -195px;
+}
+
+
+#counter{
+    position: relative;
+    left: 20cm;
+    top: -11cm;
+    border: 5px rgb(252, 236, 2);
+}
+
+#cindysSign{
+    position: relative;
+    left: -17cm;
+    top: -8cm;
+
+}
+
+p{
+    font-family: "Lucida Console", monospace;
+}
+
+span {
+    font-family: "Lucida Console", monospace;
+}
+
+#socials {
+    position: relative;
+    top: -135px;
+}
+
+
+
+#igLogo {
+    position: relative;
+    top:65px;
+    left: -190px;
+}
+
+#twitterLogo{
+    position: relative;
+    top:60px;
+    left: -200px;
+}
+#facebookLogo{
+    position: relative;
+    top:65px;
+    left: -210px;
+}
+
+body {
+    background-color: #f86300;
+}
+
+
