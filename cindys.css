@@ -27,6 +27,7 @@
     font-size: 36px;
     position: relative;
     top: -180px;
+    left: 1cm;
     max-width: 650px;
     background-color: #f83a00;
     color: rgb(252, 236, 2);
@@ -38,6 +39,7 @@
      max-width: 650px;
      position: relative;
      top: -195px;
+     left: 1cm;
      background-color: #f83a00;
 
 }
