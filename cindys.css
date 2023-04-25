@@ -1,10 +1,13 @@
 #maintitle {
     font-family: 'Arizonia';
-    text-align: center;
     font-size: 100px;
     position: relative;
-    top: -150px;
+    top: -140px;
     -webkit-text-fill-color: rgb(252, 236, 2);
+    background-color: #f83a00;
+    max-width: 250px;
+    left: 15cm;
+    
 
 }
 
@@ -16,29 +19,34 @@
     position: relative;
     left: 1000px;
     top: -10px;
+    background-color: #f83a00;
 }
 
 #ATB {
     font-family: 'Arizonia';
-    font-size: 34px;
+    font-size: 36px;
     position: relative;
     top: -180px;
     max-width: 650px;
+    background-color: #f83a00;
+    color: rgb(252, 236, 2);
 
 }
 
 #ATBparagraph{
-    font-size: 110%;
+    font-size: 120%;
      max-width: 650px;
      position: relative;
      top: -195px;
+     background-color: #f83a00;
+
 }
 
 
 #counter{
     position: relative;
     left: 20cm;
-    top: -11cm;
+    top: -10cm;
     border: 5px rgb(252, 236, 2);
 }
 
@@ -47,6 +55,12 @@
     left: -17cm;
     top: -8cm;
 
+}
+
+#storefront {
+    position: relative;
+    left: -16cm;
+    top: -8cm;
 }
 
 p{
@@ -60,6 +74,7 @@ span {
 #socials {
     position: relative;
     top: -135px;
+    font-size: larger;
 }
 
 
@@ -81,8 +96,63 @@ span {
     left: -210px;
 }
 
-body {
-    background-color: #f86300;
+
+
+
+.buttonTitle {
+    position: relative;
+     font-family: "Lucida Console", monospace;
+    left: 11cm;
+    top: -9cm;
+    font-size: 26px;
+    background-color: #f83a00;
+    color: rgb(252, 236, 2);
+
 }
 
+.menu-buttons button {
+    position: relative;
+    background-color: green; 
+    border: 1px solid white;
+    color: white; 
+    padding: 20px 34px; 
+    cursor: pointer; 
+    float: left; 
+    top: -8cm;
+    left: 23cm;
+    font-family: 'Arizonia';
+    font-size: 28px;
+    
+  }
+  
+  .btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .btn-group button:not(:last-child) {
+    border-right: none; 
+  }
+  
+  body {
+    background-image: radial-gradient(rgb(252, 236, 2) 3%, transparent 3%),
+       radial-gradient(rgb(252, 236, 2) 3%, transparent 3%);
+    background-color: #f83a00;
+    background-position: 0 0, 50px 50px;
+    background-size: 100px 100px;
+    height: 200px;
+    width: 100%;
+  }
+
+  #addressNumberSchedule{
+    background-color: #f83a00;
+    font-family: "Lucida Console", monospace;
+    font-size: 24px;
+    max-width: 900px;
+    position: absolute;
+    top: 22cm;
+    left: 2cm;
+
+  }
 
