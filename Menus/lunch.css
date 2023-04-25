@@ -1,0 +1,140 @@
+body {
+    background-image: radial-gradient(rgb(252, 236, 2) 3%, transparent 3%),
+       radial-gradient(rgb(252, 236, 2) 3%, transparent 3%);
+    background-color: #f83a00;
+    background-position: 0 0, 50px 50px;
+    background-size: 100px 100px;
+    height: 200px;
+    width: 100%;
+  }
+
+
+  #maintitle {
+    font-family: 'Arizonia';
+    font-size: 100px;
+    position: relative;
+    top: -90px;
+    -webkit-text-fill-color: rgb(252, 236, 2);
+    background-color: #f83a00;
+    max-width: 550px;
+    left: 12cm;
+    
+
+}
+
+
+  #disclaimer {
+    font-size: 14px;
+    word-wrap: break-word;
+    max-width: 400px;
+    font-family: "Lucida Console", monospace;
+    position: relative;
+    left: 1000px;
+    top: -10px;
+    background-color: #f83a00;
+}
+
+
+#socials {
+    position: relative;
+    top: -135px;
+    font-size: larger;
+}
+
+
+
+#igLogo {
+    position: relative;
+    top:65px;
+    left: -190px;
+}
+
+#twitterLogo{
+    position: relative;
+    top:60px;
+    left: -200px;
+}
+#facebookLogo{
+    position: relative;
+    top:65px;
+    left: -210px;
+}
+
+span {
+    font-family: "Lucida Console", monospace;
+}
+
+#timeRange {
+    color: rgb(252, 236, 2);
+    background-color: #f83a00;
+    position: relative;
+    left: 15.5cm;
+    top: -2cm;
+    font-size: 24px;
+}
+
+#FriedChicken{
+    position: relative;
+    left: 1cm;
+    font-family: "Lucida Console", monospace;
+    font-size: 18px;
+    background-color: #f83a00;
+
+}
+
+.bigNyellow{
+    color: rgb(252, 236, 2);
+    background-color: #f83a00;
+    font-size: 22px;
+}
+
+#FriedChickenImage{
+    position: relative;
+    left: 28cm;
+    top: -2cm;
+}
+
+#catfishPoBoy{
+    position: relative;
+    left: 1cm;
+    font-family: "Lucida Console", monospace;
+    font-size: 18px;
+    top: -4cm;
+    background-color: #f83a00;
+    max-width: 970px;
+}
+
+#catfishPoBoyImage{
+    position: relative;
+    left: 33cm;
+    top: -5cm;
+}
+
+button {
+    position: relative;
+    background-color: green; 
+    border: 1px solid white;
+    color: white; 
+    padding: 20px 34px; 
+    cursor: pointer; 
+    float: left; 
+    left: 1cm;
+    top: 6cm;
+    font-family: 'Arizonia';
+    font-size: 28px;
+    
+  }
+
+  #SidesHeader {
+    font-family: 'Arizonia';
+    font-size: 40px;
+    color: rgb(252, 236, 2);
+  }
+
+  #Sides{
+    font-family: "Lucida Console", monospace;
+    font-size: 22px;
+    position: relative;
+    left: 1cm;
+    top: -4cm;
+  }

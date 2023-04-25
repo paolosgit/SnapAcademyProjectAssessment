@@ -124,3 +124,18 @@ button {
     font-size: 28px;
     
   }
+
+
+  #SidesHeader {
+    font-family: 'Arizonia';
+    font-size: 40px;
+    color: rgb(252, 236, 2);
+  }
+
+  #Sides{
+    font-family: "Lucida Console", monospace;
+    font-size: 22px;
+    position: relative;
+    left: 1cm;
+    top: -4cm;
+  }
